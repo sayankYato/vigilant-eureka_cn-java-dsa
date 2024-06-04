@@ -1,4 +1,4 @@
-package DataStructuresCN.DS4_Sorting;
+package DataStructuresCN.DS04_Sorting;
 
 public class SortingDemo {
     public static void main(String[] args) {

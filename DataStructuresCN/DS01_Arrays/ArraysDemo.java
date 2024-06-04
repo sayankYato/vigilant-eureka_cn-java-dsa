@@ -1,4 +1,4 @@
-package DataStructuresCN.DS1_Arrays;
+package DataStructuresCN.DS01_Arrays;
 
 public class ArraysDemo {
     public static void main(String[] args) {
